@@ -1,0 +1,4 @@
+It's a Feistel Network based on chain rule
+- the function describes xor operation
+- In the Encryption process we started from a -> b -> c -> d
+- in the decryption we do the reverse and start from d
